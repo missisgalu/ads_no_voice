@@ -9,10 +9,12 @@
 ## Примеры
 
 ### Оригинальное видео
-[optimized_9x16.mp4](optimized_9x16.mp4)
+[Скачать optimized_9x16.mp4](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16.mp4)
 
 ### Видео без голоса
-[optimized_9x16_no_voice.mp4](optimized_9x16_no_voice.mp4)
+[Скачать optimized_9x16_no_voice.mp4](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16_no_voice.mp4)
+
+> **Примечание:** GitHub не отображает файлы большого размера напрямую. Используйте ссылки выше для скачивания или просмотра видео.
 
 ## Установка
 
