@@ -9,12 +9,24 @@
 ## Примеры
 
 ### Оригинальное видео
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16.mp4" type="video/mp4">
+  Ваш браузер не поддерживает видео тег. [Скачать видео](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16.mp4)
+</video>
+
 [Скачать optimized_9x16.mp4](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16.mp4)
 
 ### Видео без голоса
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16_no_voice.mp4" type="video/mp4">
+  Ваш браузер не поддерживает видео тег. [Скачать видео](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16_no_voice.mp4)
+</video>
+
 [Скачать optimized_9x16_no_voice.mp4](https://github.com/missisgalu/ads_no_voice/raw/main/optimized_9x16_no_voice.mp4)
 
-> **Примечание:** GitHub не отображает файлы большого размера напрямую. Используйте ссылки выше для скачивания или просмотра видео.
+> **Примечание:** GitHub не поддерживает встроенное воспроизведение видео в README. HTML теги `<video>` могут не работать на GitHub, но будут работать при просмотре README локально или на других платформах. Используйте прямые ссылки для скачивания или просмотра видео.
 
 ## Установка
 
